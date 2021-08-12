@@ -1,1 +1,2 @@
 this will be a sample document for the git hub
+second line is added..
